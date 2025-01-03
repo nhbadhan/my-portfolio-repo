@@ -1,0 +1,16 @@
+.image-container {
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    /* height: 45; */
+    /* width: 35; */
+    border: solid blue 15px;
+    margin: 0px 15px 0px 15px;
+    padding: 10px;
+    border-radius: 0px 15 0 15;
+
+}
+img {
+    max-width: 45%;
+    height: auto;
+}
